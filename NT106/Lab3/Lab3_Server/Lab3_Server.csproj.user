@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Lab3_Bai1_S.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Lab3_Bai2_S.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Lab3_Bai3_S.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Lab3_Bai4_S.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Lab3_S.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

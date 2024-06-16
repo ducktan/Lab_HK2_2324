@@ -1,0 +1,65 @@
+>>> 8:24:17 PM - user2 connected to Server... <<<
+
+Chờ tất cả player sẵn sàng!
+>>> user3 vừa vào phòng chơi
+user1: Chào
+user2: Chào user1
+user3: Chào mọi người
+Server: Bắt đầu nhé
+>>> user1 đã sẵn sàng!
+>>> user2 đã sẵn sàng!
+>>> user3 đã sẵn sàng!
+Hiện có 3 người chơi
+Trò chơi có 8 round
+>>> Round 1: Đoán một số trong khoảng [22, 55].
+user1 đoán sai! (24). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 50.
+------------------------------
+>>> Round 2: Đoán một số trong khoảng [14, 36].
+>>> user1 đã thoát khỏi game
+Hiện có 2 người chơi
+>>> Round 3: Đoán một số trong khoảng [45, 46].
+Không ai có đáp án chính xác
+Đáp án là: 46.
+------------------------------
+>>> Round 4: Đoán một số trong khoảng [23, 66].
+user3 đoán sai! (12). -1 điểm
+user2 đoán sai! (353). -1 điểm
+user3 đoán sai! (12). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 34.
+------------------------------
+>>> Round 5: Đoán một số trong khoảng [4, 32].
+Đã tìm thấy người chơi chiến thắng tại round 5
+user3 là người chơi đưa ra đáp án nhanh nhất, +10 điểm
+Đáp án là: 5.
+------------------------------
+>>> Round 6: Đoán một số trong khoảng [21, 38].
+Không ai có đáp án chính xác
+Đáp án là: 34.
+------------------------------
+>>> Round 7: Đoán một số trong khoảng [47, 72].
+Đã tìm thấy người chơi chiến thắng tại round 7
+user3 là người chơi đưa ra đáp án nhanh nhất, +10 điểm
+Đáp án là: 67.
+------------------------------
+>>> Round 8: Đoán một số trong khoảng [26, 64].
+Đã tìm thấy người chơi chiến thắng tại round 8
+user2 là người chơi đưa ra đáp án nhanh nhất, +10 điểm
+Đáp án là: 56.
+------------------------------
+Điểm cao nhất là: 18
+  + user3
+Điểm của bạn: 9
+=================
+
+Tạo game mới...
+Chờ người chơi tham gia...
+user3: a
+
+>>> Connection closed <<<
+
+
+
+

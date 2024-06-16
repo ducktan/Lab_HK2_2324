@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tieul\\Document\\1_HK4\\NT106_LTM\\thucHanh\\Lab6\\Lab06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8B7748-2B61-46BB-8D2E-39E51FF5F031}|Lab06.csproj|c:\\users\\tieul\\document\\1_hk4\\nt106_ltm\\thuchanh\\lab6\\lab06\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8B7748-2B61-46BB-8D2E-39E51FF5F031}|Lab06.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8B7748-2B61-46BB-8D2E-39E51FF5F031}|Lab06.csproj|C:\\Users\\tieul\\Document\\1_HK4\\NT106_LTM\\thucHanh\\Lab6\\Lab06\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B8B7748-2B61-46BB-8D2E-39E51FF5F031}|Lab06.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8B7748-2B61-46BB-8D2E-39E51FF5F031}|Lab06.csproj|C:\\Users\\tieul\\Document\\1_HK4\\NT106_LTM\\thucHanh\\Lab6\\Lab06\\savehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B8B7748-2B61-46BB-8D2E-39E51FF5F031}|Lab06.csproj|solutionrelative:savehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8B7748-2B61-46BB-8D2E-39E51FF5F031}|Lab06.csproj|C:\\Users\\tieul\\Document\\1_HK4\\NT106_LTM\\thucHanh\\Lab6\\Lab06\\indexform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B8B7748-2B61-46BB-8D2E-39E51FF5F031}|Lab06.csproj|solutionrelative:indexform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mainForm.cs",
+              "DocumentMoniker": "C:\\Users\\tieul\\Document\\1_HK4\\NT106_LTM\\thucHanh\\Lab6\\Lab06\\mainForm.cs",
+              "RelativeDocumentMoniker": "mainForm.cs",
+              "ToolTip": "C:\\Users\\tieul\\Document\\1_HK4\\NT106_LTM\\thucHanh\\Lab6\\Lab06\\mainForm.cs",
+              "RelativeToolTip": "mainForm.cs",
+              "ViewState": "AQIAAPkAAAAAAAAAAAAiwJoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T20:41:15.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "saveHistory.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tieul\\Document\\1_HK4\\NT106_LTM\\thucHanh\\Lab6\\Lab06\\saveHistory.cs",
+              "RelativeDocumentMoniker": "saveHistory.cs",
+              "ToolTip": "C:\\Users\\tieul\\Document\\1_HK4\\NT106_LTM\\thucHanh\\Lab6\\Lab06\\saveHistory.cs [Design]",
+              "RelativeToolTip": "saveHistory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T20:34:15.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tieul\\Document\\1_HK4\\NT106_LTM\\thucHanh\\Lab6\\Lab06\\mainForm.cs",
+              "RelativeDocumentMoniker": "mainForm.cs",
+              "ToolTip": "C:\\Users\\tieul\\Document\\1_HK4\\NT106_LTM\\thucHanh\\Lab6\\Lab06\\mainForm.cs [Design]",
+              "RelativeToolTip": "mainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T20:33:56.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "indexForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tieul\\Document\\1_HK4\\NT106_LTM\\thucHanh\\Lab6\\Lab06\\indexForm.cs",
+              "RelativeDocumentMoniker": "indexForm.cs",
+              "ToolTip": "C:\\Users\\tieul\\Document\\1_HK4\\NT106_LTM\\thucHanh\\Lab6\\Lab06\\indexForm.cs [Design]",
+              "RelativeToolTip": "indexForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T20:33:50.603Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

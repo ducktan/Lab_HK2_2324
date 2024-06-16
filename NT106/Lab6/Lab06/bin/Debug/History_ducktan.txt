@@ -1,0 +1,116 @@
+>>> 8:08:41 PM - ducktan connected to Server... <<<
+
+Chờ tất cả player sẵn sàng!
+Server: 1
+>>> ducktan đã sẵn sàng!
+Hiện có 1 người chơi
+Trò chơi có 9 round
+>>> Round 1: Đoán một số trong khoảng [3, 49].
+Không ai có đáp án chính xác
+Đáp án là: 35.
+------------------------------
+>>> Round 2: Đoán một số trong khoảng [39, 72].
+ducktan đoán sai! (9). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 69.
+------------------------------
+>>> Round 3: Đoán một số trong khoảng [15, 56].
+Không ai có đáp án chính xác
+Đáp án là: 48.
+------------------------------
+>>> Round 4: Đoán một số trong khoảng [44, 48].
+Đã tìm thấy người chơi chiến thắng tại round 4
+ducktan là người chơi đưa ra đáp án nhanh nhất, +10 điểm
+Đáp án là: 47.
+------------------------------
+>>> Round 5: Đoán một số trong khoảng [35, 37].
+Server: Cố lên
+Không ai có đáp án chính xác
+Đáp án là: 35.
+------------------------------
+>>> Round 6: Đoán một số trong khoảng [20, 38].
+ducktan đoán sai! (37). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 29.
+------------------------------
+>>> Round 7: Đoán một số trong khoảng [28, 77].
+Không ai có đáp án chính xác
+Đáp án là: 71.
+------------------------------
+Server: 
+>>> Round 8: Đoán một số trong khoảng [0, 5].
+Không ai có đáp án chính xác
+Đáp án là: 5.
+------------------------------
+>>> Round 9: Đoán một số trong khoảng [13, 46].
+ducktan: 6948
+ducktan đoán sai! (45). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 22.
+------------------------------
+Điểm cao nhất là: 7
+  + ducktan
+Điểm của bạn: 7
+=================
+
+Tạo game mới...
+Chờ người chơi tham gia...
+
+>>> Connection closed <<<
+
+
+
+
+>>> 8:12:44 PM - ducktan connected to Server... <<<
+
+ducktan là người chơi đưa ra đáp án nhanh nhất, +10 điểm
+Đáp án là: 39.
+------------------------------
+>>> Round 5: Đoán một số trong khoảng [6, 32].
+Server: hey
+Không ai có đáp án chính xác
+Đáp án là: 17.
+------------------------------
+>>> Round 6: Đoán một số trong khoảng [14, 61].
+Server: cố lên
+Đã tìm thấy người chơi chiến thắng tại round 6
+ducktan là người chơi đưa ra đáp án nhanh nhất, +10 điểm
+Đáp án là: 55.
+------------------------------
+>>> Round 7: Đoán một số trong khoảng [33, 56].
+Không ai có đáp án chính xác
+Đáp án là: 39.
+------------------------------
+>>> Round 8: Đoán một số trong khoảng [14, 20].
+Không ai có đáp án chính xác
+Đáp án là: 16.
+------------------------------
+>>> Round 9: Đoán một số trong khoảng [30, 65].
+ducktan đoán sai! (54). -1 điểm
+ducktan đoán sai! (42). -1 điểm
+ducktan đoán sai! (43). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 45.
+------------------------------
+Điểm cao nhất là: 15
+  + ducktan
+Điểm của bạn: 15
+=================
+
+Tạo game mới...
+Chờ người chơi tham gia...
+
+>>> Connection closed <<<
+
+
+
+
+>>> 8:14:56 PM - ducktan connected to Server... <<<
+
+Chờ tất cả player sẵn sàng!
+
+>>> Connection closed <<<
+
+
+
+

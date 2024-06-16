@@ -1,0 +1,160 @@
+>>> 8:34:10 PM - u2 connected to Server... <<<
+
+Chờ tất cả player sẵn sàng!
+u1: hh
+u2: kk
+Server: begin
+>>> u2 đã sẵn sàng!
+>>> u1 đã sẵn sàng!
+Hiện có 2 người chơi
+Trò chơi có 8 round
+>>> Round 1: Đoán một số trong khoảng [16, 32].
+Không ai có đáp án chính xác
+Đáp án là: 22.
+------------------------------
+>>> Round 2: Đoán một số trong khoảng [45, 86].
+Không ai có đáp án chính xác
+Đáp án là: 79.
+------------------------------
+>>> Round 3: Đoán một số trong khoảng [37, 76].
+Không ai có đáp án chính xác
+Đáp án là: 44.
+------------------------------
+>>> Round 4: Đoán một số trong khoảng [18, 27].
+Đã tìm thấy người chơi chiến thắng tại round 4
+u1 là người chơi đưa ra đáp án nhanh nhất, +10 điểm
+Đáp án là: 19.
+------------------------------
+u1 là người chơi đưa ra đáp án nhanh nhất, +10 điểm
+Đáp án là: 19.
+------------------------------
+>>> Round 5: Đoán một số trong khoảng [49, 75].
+>>> Round 6: Đoán một số trong khoảng [25, 47].
+u2 đoán sai! (8). -1 điểm
+u2 đoán sai! (8). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 47.
+------------------------------
+>>> Round 7: Đoán một số trong khoảng [0, 34].
+u2 đoán sai! (13). -1 điểm
+u2 đoán sai! (14). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 12.
+------------------------------
+>>> Round 8: Đoán một số trong khoảng [49, 74].
+u2 đoán sai! (63). -1 điểm
+Đã tìm thấy người chơi chiến thắng tại round 8
+u1 là người chơi đưa ra đáp án nhanh nhất, +10 điểm
+Đáp án là: 49.
+------------------------------
+Điểm cao nhất là: 20
+  + u1
+Điểm của bạn: -5
+=================
+
+Tạo game mới...
+Chờ người chơi tham gia...
+
+>>> Connection closed <<<
+
+
+
+
+>>> 8:10:39 PM - u2 connected to Server... <<<
+
+Chờ tất cả player sẵn sàng!
+Server: hh
+u1: ppp
+u2: pp
+>>> u1 đã sẵn sàng!
+>>> u2 đã sẵn sàng!
+Hiện có 2 người chơi
+Trò chơi có 3 round
+>>> Round 1: Đoán một số trong khoảng [8, 18].
+Không ai có đáp án chính xác
+Đáp án là: 13.
+------------------------------
+>>> Round 2: Đoán một số trong khoảng [41, 62].
+u1 đoán sai! (3). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 59.
+------------------------------
+>>> Round 3: Đoán một số trong khoảng [43, 81].
+Đã tìm thấy người chơi chiến thắng tại round 3
+u1 là người chơi đưa ra đáp án nhanh nhất, +10 điểm
+Đáp án là: 67.
+------------------------------
+Điểm cao nhất là: 9
+  + u1
+Điểm của bạn: 0
+=================
+
+Tạo game mới...
+Chờ người chơi tham gia...
+>>> u1 đã sẵn sàng!
+>>> u2 đã sẵn sàng!
+Hiện có 2 người chơi
+Trò chơi có 8 round
+>>> Round 1: Đoán một số trong khoảng [4, 20].
+Không ai có đáp án chính xác
+Đáp án là: 14.
+------------------------------
+>>> Round 2: Đoán một số trong khoảng [49, 94].
+Không ai có đáp án chính xác
+Đáp án là: 54.
+------------------------------
+>>> Round 3: Đoán một số trong khoảng [36, 48].
+u2 đoán sai! (41). -1 điểm
+Đã tìm thấy người chơi chiến thắng tại round 3
+u2 là người chơi đưa ra đáp án nhanh nhất, +10 điểm
+Đáp án là: 36.
+------------------------------
+>>> Round 4: Đoán một số trong khoảng [37, 66].
+u2 đoán sai! (39). -1 điểm
+u2 đoán sai! (59). -1 điểm
+Đã tìm thấy người chơi chiến thắng tại round 4
+u1 là người chơi đưa ra đáp án nhanh nhất, +10 điểm
+Đáp án là: 61.
+------------------------------
+>>> Round 5: Đoán một số trong khoảng [41, 66].
+u2 đoán sai! (61). -1 điểm
+u2 đoán sai! (49). -1 điểm
+u2 đoán sai! (42). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 50.
+------------------------------
+>>> Round 6: Đoán một số trong khoảng [43, 88].
+u2 đoán sai! (86). -1 điểm
+u2 đoán sai! (74). -1 điểm
+u2 đoán sai! (50). -1 điểm
+Đã tìm thấy người chơi chiến thắng tại round 6
+u1 là người chơi đưa ra đáp án nhanh nhất, +10 điểm
+Đáp án là: 78.
+------------------------------
+>>> Round 7: Đoán một số trong khoảng [28, 54].
+u2 đoán sai! (53). -1 điểm
+u2 đoán sai! (48). -1 điểm
+u2 đoán sai! (38). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 39.
+------------------------------
+>>> Round 8: Đoán một số trong khoảng [28, 43].
+u2 đoán sai! (30). -1 điểm
+Đã tìm thấy người chơi chiến thắng tại round 8
+u2 là người chơi đưa ra đáp án nhanh nhất, +10 điểm
+Đáp án là: 31.
+------------------------------
+Điểm cao nhất là: 20
+  + u1
+Điểm của bạn: 7
+=================
+
+Tạo game mới...
+Chờ người chơi tham gia...
+>>> u1 đã thoát khỏi game
+
+>>> Connection closed <<<
+
+
+
+

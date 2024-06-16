@@ -1,0 +1,49 @@
+>>> 8:58:36 PM - 21 connected to Server... <<<
+
+Chờ tất cả player sẵn sàng!
+>>> 21 đã sẵn sàng!
+Hiện có 1 người chơi
+Trò chơi có 6 round
+>>> Round 1: Đoán một số trong khoảng [43, 62].
+Không ai có đáp án chính xác
+Đáp án là: 55.
+------------------------------
+>>> Round 2: Đoán một số trong khoảng [20, 38].
+Đã tìm thấy người chơi chiến thắng tại round 2
+21 là người chơi đưa ra đáp án nhanh nhất, +10 điểm
+Đáp án là: 32.
+------------------------------
+>>> Round 3: Đoán một số trong khoảng [30, 60].
+Đã tìm thấy người chơi chiến thắng tại round 3
+21 là người chơi đưa ra đáp án nhanh nhất, +10 điểm
+Đáp án là: 35.
+------------------------------
+>>> Round 4: Đoán một số trong khoảng [15, 19].
+Đã tìm thấy người chơi chiến thắng tại round 4
+21 là người chơi đưa ra đáp án nhanh nhất, +10 điểm
+Đáp án là: 16.
+------------------------------
+>>> Round 5: Đoán một số trong khoảng [13, 18].
+21 đoán sai! (15). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 14.
+------------------------------
+>>> Round 6: Đoán một số trong khoảng [28, 55].
+21 đoán sai! (36). -1 điểm
+Đã tìm thấy người chơi chiến thắng tại round 6
+21 là người chơi đưa ra đáp án nhanh nhất, +10 điểm
+Đáp án là: 42.
+------------------------------
+Điểm cao nhất là: 38
+  + 21
+Điểm của bạn: 38
+=================
+
+Tạo game mới...
+Chờ người chơi tham gia...
+
+>>> Connection closed <<<
+
+
+
+

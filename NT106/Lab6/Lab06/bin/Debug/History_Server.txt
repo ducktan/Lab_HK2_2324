@@ -1,0 +1,371 @@
+>>> 8:06:16 PM - Server hosted a connection... <<<
+
+Chờ tất cả player sẵn sàng!
+Server: hey
+Server: a
+
+>>> Connection closed <<<
+
+
+
+
+>>> 8:08:29 PM - Server hosted a connection... <<<
+
+Chờ tất cả player sẵn sàng!
+>>> ducktan vừa vào phòng chơi
+Server: 1
+>>> ducktan đã sẵn sàng!
+Hiện có 1 người chơi
+Trò chơi có 9 round
+>>> Round 1: Đoán một số trong khoảng [3, 49].
+Không ai có đáp án chính xác
+Đáp án là: 35.
+------------------------------
+>>> Round 2: Đoán một số trong khoảng [39, 72].
+ducktan đoán sai! (9). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 69.
+------------------------------
+>>> Round 3: Đoán một số trong khoảng [15, 56].
+Không ai có đáp án chính xác
+Đáp án là: 48.
+------------------------------
+>>> Round 4: Đoán một số trong khoảng [44, 48].
+Đã tìm thấy người chơi chiến thắng tại round 4
+ducktan là người chơi đưa ra đáp án nhanh nhất, +10 điểm
+Đáp án là: 47.
+------------------------------
+>>> Round 5: Đoán một số trong khoảng [35, 37].
+Server: Cố lên
+Không ai có đáp án chính xác
+Đáp án là: 35.
+------------------------------
+>>> Round 6: Đoán một số trong khoảng [20, 38].
+ducktan đoán sai! (37). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 29.
+------------------------------
+>>> Round 7: Đoán một số trong khoảng [28, 77].
+Không ai có đáp án chính xác
+Đáp án là: 71.
+------------------------------
+Server: 
+>>> Round 8: Đoán một số trong khoảng [0, 5].
+Không ai có đáp án chính xác
+Đáp án là: 5.
+------------------------------
+>>> Round 9: Đoán một số trong khoảng [13, 46].
+ducktan: 6948
+ducktan đoán sai! (45). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 22.
+------------------------------
+Điểm cao nhất là: 7
+  + ducktan
+=================
+
+Tạo game mới...
+Chờ người chơi tham gia...
+>>> ducktan đã thoát khỏi game
+>>> Tất cả người chơi đã thoát khỏi game
+
+>>> Connection closed <<<
+
+
+
+
+>>> 8:12:31 PM - Server hosted a connection... <<<
+
+Chờ tất cả player sẵn sàng!
+>>> ducktan vừa vào phòng chơi
+>>> ducktan đã sẵn sàng!
+Hiện có 1 người chơi
+Trò chơi có 9 round
+>>> Round 1: Đoán một số trong khoảng [21, 36].
+ducktan đoán sai! (25). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 21.
+------------------------------
+>>> Round 2: Đoán một số trong khoảng [1, 42].
+ducktan đoán sai! (43). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 18.
+------------------------------
+>>> Round 3: Đoán một số trong khoảng [0, 40].
+Không ai có đáp án chính xác
+Đáp án là: 32.
+------------------------------
+>>> Round 4: Đoán một số trong khoảng [29, 66].
+Đã tìm thấy người chơi chiến thắng tại round 4
+ducktan là người chơi đưa ra đáp án nhanh nhất, +10 điểm
+Đáp án là: 39.
+------------------------------
+>>> Round 5: Đoán một số trong khoảng [6, 32].
+Server: hey
+Không ai có đáp án chính xác
+Đáp án là: 17.
+------------------------------
+>>> Round 6: Đoán một số trong khoảng [14, 61].
+Server: cố lên
+Đã tìm thấy người chơi chiến thắng tại round 6
+ducktan là người chơi đưa ra đáp án nhanh nhất, +10 điểm
+Đáp án là: 55.
+------------------------------
+>>> Round 7: Đoán một số trong khoảng [33, 56].
+Không ai có đáp án chính xác
+Đáp án là: 39.
+------------------------------
+>>> Round 8: Đoán một số trong khoảng [14, 20].
+Không ai có đáp án chính xác
+Đáp án là: 16.
+------------------------------
+>>> Round 9: Đoán một số trong khoảng [30, 65].
+ducktan đoán sai! (54). -1 điểm
+ducktan đoán sai! (42). -1 điểm
+ducktan đoán sai! (43). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 45.
+------------------------------
+Điểm cao nhất là: 15
+  + ducktan
+=================
+
+Tạo game mới...
+Chờ người chơi tham gia...
+>>> ducktan đã thoát khỏi game
+>>> Tất cả người chơi đã thoát khỏi game
+>>> ducktan vừa vào phòng chơi
+>>> ducktan đã thoát khỏi game
+>>> Tất cả người chơi đã thoát khỏi game
+Server: 
+Server: 
+Server: 
+Server: 
+Server: 
+Server: 
+
+>>> Connection closed <<<
+
+
+
+
+>>> 8:23:53 PM - Server hosted a connection... <<<
+
+Chờ tất cả player sẵn sàng!
+>>> user1 vừa vào phòng chơi
+>>> user2 vừa vào phòng chơi
+>>> user3 vừa vào phòng chơi
+user1: Chào
+user2: Chào user1
+user3: Chào mọi người
+Server: Bắt đầu nhé
+>>> user1 đã sẵn sàng!
+>>> user2 đã sẵn sàng!
+>>> user3 đã sẵn sàng!
+Hiện có 3 người chơi
+Trò chơi có 8 round
+>>> Round 1: Đoán một số trong khoảng [22, 55].
+user1 đoán sai! (24). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 50.
+------------------------------
+>>> Round 2: Đoán một số trong khoảng [14, 36].
+>>> user1 đã thoát khỏi game
+Hiện có 2 người chơi
+>>> Round 3: Đoán một số trong khoảng [45, 46].
+Không ai có đáp án chính xác
+Đáp án là: 46.
+------------------------------
+>>> Round 4: Đoán một số trong khoảng [23, 66].
+user3 đoán sai! (12). -1 điểm
+user2 đoán sai! (353). -1 điểm
+user3 đoán sai! (12). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 34.
+------------------------------
+>>> Round 5: Đoán một số trong khoảng [4, 32].
+Đã tìm thấy người chơi chiến thắng tại round 5
+user3 là người chơi đưa ra đáp án nhanh nhất, +10 điểm
+Đáp án là: 5.
+------------------------------
+>>> Round 6: Đoán một số trong khoảng [21, 38].
+Không ai có đáp án chính xác
+Đáp án là: 34.
+------------------------------
+>>> Round 7: Đoán một số trong khoảng [47, 72].
+Đã tìm thấy người chơi chiến thắng tại round 7
+user3 là người chơi đưa ra đáp án nhanh nhất, +10 điểm
+Đáp án là: 67.
+------------------------------
+>>> Round 8: Đoán một số trong khoảng [26, 64].
+Đã tìm thấy người chơi chiến thắng tại round 8
+user2 là người chơi đưa ra đáp án nhanh nhất, +10 điểm
+Đáp án là: 56.
+------------------------------
+Điểm cao nhất là: 18
+  + user3
+=================
+
+Tạo game mới...
+Chờ người chơi tham gia...
+user3: a
+>>> user2 đã thoát khỏi game
+>>> user3 đã thoát khỏi game
+>>> Tất cả người chơi đã thoát khỏi game
+
+>>> Connection closed <<<
+
+
+
+
+>>> 8:58:19 PM - Server hosted a connection... <<<
+
+Chờ tất cả player sẵn sàng!
+>>> 21 vừa vào phòng chơi
+>>> 21 đã sẵn sàng!
+Hiện có 1 người chơi
+Trò chơi có 6 round
+>>> Round 1: Đoán một số trong khoảng [43, 62].
+Không ai có đáp án chính xác
+Đáp án là: 55.
+------------------------------
+>>> Round 2: Đoán một số trong khoảng [20, 38].
+Đã tìm thấy người chơi chiến thắng tại round 2
+21 là người chơi đưa ra đáp án nhanh nhất, +10 điểm
+Đáp án là: 32.
+------------------------------
+>>> Round 3: Đoán một số trong khoảng [30, 60].
+Đã tìm thấy người chơi chiến thắng tại round 3
+21 là người chơi đưa ra đáp án nhanh nhất, +10 điểm
+Đáp án là: 35.
+------------------------------
+>>> Round 4: Đoán một số trong khoảng [15, 19].
+Đã tìm thấy người chơi chiến thắng tại round 4
+21 là người chơi đưa ra đáp án nhanh nhất, +10 điểm
+Đáp án là: 16.
+------------------------------
+>>> Round 5: Đoán một số trong khoảng [13, 18].
+21 đoán sai! (15). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 14.
+------------------------------
+>>> Round 6: Đoán một số trong khoảng [28, 55].
+21 đoán sai! (36). -1 điểm
+Đã tìm thấy người chơi chiến thắng tại round 6
+21 là người chơi đưa ra đáp án nhanh nhất, +10 điểm
+Đáp án là: 42.
+------------------------------
+Điểm cao nhất là: 38
+  + 21
+=================
+
+Tạo game mới...
+Chờ người chơi tham gia...
+>>> 21 đã thoát khỏi game
+>>> Tất cả người chơi đã thoát khỏi game
+
+>>> Connection closed <<<
+
+
+
+
+>>> 8:10:15 PM - Server hosted a connection... <<<
+
+Chờ tất cả player sẵn sàng!
+>>> u1 vừa vào phòng chơi
+>>> u2 vừa vào phòng chơi
+Server: hh
+u1: ppp
+u2: pp
+>>> u1 đã sẵn sàng!
+>>> u2 đã sẵn sàng!
+Hiện có 2 người chơi
+Trò chơi có 3 round
+>>> Round 1: Đoán một số trong khoảng [8, 18].
+Không ai có đáp án chính xác
+Đáp án là: 13.
+------------------------------
+>>> Round 2: Đoán một số trong khoảng [41, 62].
+u1 đoán sai! (3). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 59.
+------------------------------
+>>> Round 3: Đoán một số trong khoảng [43, 81].
+Đã tìm thấy người chơi chiến thắng tại round 3
+u1 là người chơi đưa ra đáp án nhanh nhất, +10 điểm
+Đáp án là: 67.
+------------------------------
+Điểm cao nhất là: 9
+  + u1
+=================
+
+Tạo game mới...
+Chờ người chơi tham gia...
+>>> u1 đã sẵn sàng!
+>>> u2 đã sẵn sàng!
+Hiện có 2 người chơi
+Trò chơi có 8 round
+>>> Round 1: Đoán một số trong khoảng [4, 20].
+Không ai có đáp án chính xác
+Đáp án là: 14.
+------------------------------
+>>> Round 2: Đoán một số trong khoảng [49, 94].
+Không ai có đáp án chính xác
+Đáp án là: 54.
+------------------------------
+>>> Round 3: Đoán một số trong khoảng [36, 48].
+u2 đoán sai! (41). -1 điểm
+Đã tìm thấy người chơi chiến thắng tại round 3
+u2 là người chơi đưa ra đáp án nhanh nhất, +10 điểm
+Đáp án là: 36.
+------------------------------
+>>> Round 4: Đoán một số trong khoảng [37, 66].
+u2 đoán sai! (39). -1 điểm
+u2 đoán sai! (59). -1 điểm
+Đã tìm thấy người chơi chiến thắng tại round 4
+u1 là người chơi đưa ra đáp án nhanh nhất, +10 điểm
+Đáp án là: 61.
+------------------------------
+>>> Round 5: Đoán một số trong khoảng [41, 66].
+u2 đoán sai! (61). -1 điểm
+u2 đoán sai! (49). -1 điểm
+u2 đoán sai! (42). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 50.
+------------------------------
+>>> Round 6: Đoán một số trong khoảng [43, 88].
+u2 đoán sai! (86). -1 điểm
+u2 đoán sai! (74). -1 điểm
+u2 đoán sai! (50). -1 điểm
+Đã tìm thấy người chơi chiến thắng tại round 6
+u1 là người chơi đưa ra đáp án nhanh nhất, +10 điểm
+Đáp án là: 78.
+------------------------------
+>>> Round 7: Đoán một số trong khoảng [28, 54].
+u2 đoán sai! (53). -1 điểm
+u2 đoán sai! (48). -1 điểm
+u2 đoán sai! (38). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 39.
+------------------------------
+>>> Round 8: Đoán một số trong khoảng [28, 43].
+u2 đoán sai! (30). -1 điểm
+Đã tìm thấy người chơi chiến thắng tại round 8
+u2 là người chơi đưa ra đáp án nhanh nhất, +10 điểm
+Đáp án là: 31.
+------------------------------
+Điểm cao nhất là: 20
+  + u1
+=================
+
+Tạo game mới...
+Chờ người chơi tham gia...
+>>> u1 đã thoát khỏi game
+>>> u2 đã thoát khỏi game
+>>> Tất cả người chơi đã thoát khỏi game
+
+>>> Connection closed <<<
+
+
+
+
