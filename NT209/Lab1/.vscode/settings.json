@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "xlocmon": "cpp",
+        "ostream": "cpp"
+    }
+}
