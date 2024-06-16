@@ -1,0 +1,3 @@
+Lỗi: 
+1. Chưa khởi tạo giá trị  cho i
+2. Giá trị kết thúc vòng lặp không hợp lệ.

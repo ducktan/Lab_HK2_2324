@@ -1,0 +1,28 @@
+top: hiển thị theo thời gian thực 
+
+ps: xuất hiện tiến trinhf đang thực thi khi lệnh ps được gọi
+
+2 cách gọi tiến trình: 
++ Foreground (Tương tác với người dùng) I/O: 1 thời điểm (chỉ thực thi với 1 tiến trình forr duy nhất) 
+
++ Background: chạy nền bên dứới (back đang chạy vẫn gọi các tiến trình khác thực thi được)
+thêm dấu và (&) tại phần cuối của lệnh.
+
+Ctrl + Z: chuyển tiến trình for về back 
+
+fg định danh: chuyển từ bg --> for
+
+kill -stop pid --> dừng tiến trình 
+
+
+Hàm fork: khi tạo 1 tt, tt này là con của tt gọi 
+fork
+Hàm exec(): tt tạo ra kế thừa pid gọi hàm exec() và tt gọi hàm exec bị tự hủy 
+
+Hàm system: tạo tt mới, chờ mới thực thi, sau đó mới thực thi
+
+Kết thúc tiến trình: exit()
+
+Wait (NULL): chowf tt con thuc thi xong
+
+

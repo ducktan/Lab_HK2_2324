@@ -1,0 +1,186 @@
+Giải thuật SJF: 
+#include <stdio.h>
+
+void main() {
+    int pn[10];
+    int arr[10], bur[10], star[10], finish[10], tat[10], wt[10], rt[10], i, j, n;
+    int totwt = 0, tottat = 0;
+
+    printf("Enter the number of processes: ");
+    scanf("%d", &n);
+
+    for (i = 0; i < n; i++) {
+        printf("Enter Process Name, Arrival Time & Burst Time for Process %d: ", i + 1);
+        scanf("%d %d %d", &pn[i], &arr[i], &bur[i]);
+        rt[i] = bur[i]; // Khởi tạo thời gian thực thi còn lại ban đầu bằng burst time
+    }
+
+    int complete = 0; // Số tiến trình đã hoàn thành
+    int time = 0; // Thời gian hiện tại
+
+    while (complete != n) {
+        int shortest = -1; // Chỉ số của tiến trình có burst time nhỏ nhất và đã đến
+        int min_burst = 9999; // Burst time nhỏ nhất
+
+        for (i = 0; i < n; i++) {
+            if (arr[i] <= time && rt[i] < min_burst && rt[i] > 0) {
+                shortest = i;
+                min_burst = rt[i];
+            }
+        }
+
+        if (shortest == -1) {
+            time++;
+            continue;
+        }
+
+        // Thực hiện tiến trình có burst time nhỏ nhất
+        star[shortest] = time;
+        time += rt[shortest];
+        rt[shortest] = 0;
+        finish[shortest] = time;
+        tat[shortest] = finish[shortest] - arr[shortest];
+        wt[shortest] = tat[shortest] - bur[shortest];
+
+        complete++;
+    }
+
+    printf("\nPName Arrival Burst Response Waiting Turnaround");
+    for (i = 0; i < n; i++) {
+        printf("\n%d\t%d\t%d\t%d\t%d\t%d", pn[i], arr[i], bur[i], star[i], wt[i], tat[i]);
+        totwt += wt[i];
+        tottat += tat[i];
+    }
+
+    float avg_wt = (float) totwt / n;
+    float avg_tat = (float) tottat / n;
+
+    printf("\n\nAverage Waiting Time: %.2f", avg_wt);
+    printf("\nAverage Turnaround Time: %.2f", avg_tat);
+}
+
+
+
+Giải thuật SRTF: 
+#include <stdio.h>
+
+void main() {
+    int pn[10];
+    int arr[10], bur[10], star[10], finish[10], tat[10], wt[10], rt[10], i, j, n;
+    int totwt = 0, tottat = 0;
+
+    printf("Enter the number of processes: ");
+    scanf("%d", &n);
+
+    for (i = 0; i < n; i++) {
+        printf("Enter Process Name, Arrival Time & Burst Time for Process %d: ", i + 1);
+        scanf("%d %d %d", &pn[i], &arr[i], &bur[i]);
+        rt[i] = bur[i]; // Khởi tạo thời gian thực thi còn lại ban đầu bằng burst time
+    }
+
+    int complete = 0; // Số tiến trình đã hoàn thành
+    int time = 0; // Thời gian hiện tại
+    int min_burst = 9999; // Burst time nhỏ nhất
+
+    while (complete != n) {
+        int shortest = -1; // Chỉ số của tiến trình có burst time nhỏ nhất và đã đến
+
+        for (i = 0; i < n; i++) {
+            if (arr[i] <= time && rt[i] < min_burst && rt[i] > 0) {
+                shortest = i;
+                min_burst = rt[i];
+            }
+        }
+
+        if (shortest == -1) {
+            time++;
+            continue;
+        }
+
+        // Thực hiện một đơn vị thời gian cho tiến trình có burst time nhỏ nhất
+        rt[shortest]--;
+        min_burst = rt[shortest];
+
+        if (min_burst == 0) {
+            min_burst = 9999; // Reset burst time nhỏ nhất
+
+            complete++;
+            finish[shortest] = time + 1;
+            tat[shortest] = finish[shortest] - arr[shortest];
+            wt[shortest] = tat[shortest] - bur[shortest];
+
+            totwt += wt[shortest];
+            tottat += tat[shortest];
+        }
+
+        time++;
+    }
+
+    printf("\nPName Arrival Burst Response Waiting Turnaround");
+    for (i = 0; i < n; i++) {
+        printf("\n%d\t%d\t%d\t%d\t%d\t%d", pn[i], arr[i], bur[i], star[i], wt[i], tat[i]);
+    }
+
+    float avg_wt = (float) totwt / n;
+    float avg_tat = (float) tottat / n;
+
+    printf("\n\nAverage Waiting Time: %.2f", avg_wt);
+    printf("\nAverage Turnaround Time: %.2f", avg_tat);
+}
+
+Giải thuật Round Robin: 
+
+#include <stdio.h>
+
+void main() {
+    int pn[10];
+    int burst[10], rem_burst[10], wt[10], tat[10], i, n, quantum;
+    int totwt = 0, tottat = 0;
+
+    printf("Enter the number of processes: ");
+    scanf("%d", &n);
+
+    printf("Enter the quantum time: ");
+    scanf("%d", &quantum);
+
+    for (i = 0; i < n; i++) {
+        printf("Enter Process Name and Burst Time for Process %d: ", i + 1);
+        scanf("%d %d", &pn[i], &burst[i]);
+        rem_burst[i] = burst[i]; // Khởi tạo thời gian thực thi còn lại ban đầu bằng burst time
+    }
+
+    int complete = 0; // Số tiến trình đã hoàn thành
+    int time = 0; // Thời gian hiện tại
+
+    while (complete != n) {
+        for (i = 0; i < n; i++) {
+            if (rem_burst[i] > 0) {
+                if (rem_burst[i] <= quantum) {
+                    time += rem_burst[i];
+                    wt[i] = time - burst[i];
+                    tat[i] = time;
+                    rem_burst[i] = 0;
+                    complete++;
+                } else {
+                    time += quantum;
+                    rem_burst[i] -= quantum;
+                }
+            }
+        }
+    }
+
+    printf("\nGantt Chart:");
+    printf("\nProcess\tStart Time\tStop Time");
+    for (i = 0; i < n; i++) {
+        printf("\n%d\t%d\t\t%d", pn[i], wt[i], tat[i]);
+        totwt += wt[i];
+        tottat += tat[i];
+    }
+
+    float avg_wt = (float) totwt / n;
+    float avg_tat = (float) tottat / n;
+
+    printf("\n\nAverage Waiting Time: %.2f", avg_wt);
+    printf("\nAverage Turnaround Time: %.2f", avg_tat);
+} 
+
